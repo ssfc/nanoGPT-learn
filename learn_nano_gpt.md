@@ -30,3 +30,18 @@ Source: Conversation with Bing, 2023/6/8
 (2) Train your own language model with nanoGPT - Medium. https://sophiamyang.medium.com/train-your-own-language-model-with-nanogpt-83d86f26705e.
 (3) Exploring NanoGPT | DoltHub Blog. https://www.dolthub.com/blog/2023-02-20-exploring-nanogpt/.
 (4) nanoGPT | Discover AI use cases - GPT-3 Demo. https://gpt3demo.com/apps/nanogpt-mingpt.
+
+### Q: Is there any project that similar to nanoGPT?
+
+There are some projects that are similar to nanoGPT in terms of providing simple and fast ways to train or finetune GPT models. Here are some examples:
+
+- **minGPT**¹ is the original project by Andrej Karpathy that inspired nanoGPT. It is a minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training. It aims to be educational and easy to understand, with detailed comments and explanations. minGPT can train GPT models on various tasks, such as text generation, image generation, and reinforcement learning.
+- **aitextgen**² is a robust Python tool for text-based AI training and generation using GPT-2. It is built on top of PyTorch and Transformers, and provides a simple interface to train custom GPT-2 models, either from scratch or using pretrained weights. It also supports text generation with various parameters, such as temperature, top_k, top_p, and length.
+- **gpt_index**³ is a project that provides a central interface to connect your LLMs with external data. It uses LlamaIndex (GPT Index) to index large text corpora and query them efficiently using GPT models. It also supports fine-tuning GPT models on the indexed data using PyTorch Lightning.
+
+These are some of the projects that I found that are similar to nanoGPT. You can check them out and see if they suit your needs. Do you have any other questions? 😊
+
+Source: Conversation with Bing, 2023/6/8
+(1) nanoGPT Alternatives and Reviews (May 2023) - LibHunt. https://www.libhunt.com/r/nanoGPT.
+(2) Accelerating Large Language Models with Accelerated Transformers. https://pytorch.org/blog/accelerating-large-language-models/.
+(3) GitHub - karpathy/nanoGPT: The simplest, fastest repository for .... https://github.com/karpathy/nanoGPT.
