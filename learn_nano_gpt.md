@@ -45,3 +45,12 @@ Source: Conversation with Bing, 2023/6/8
 (1) nanoGPT Alternatives and Reviews (May 2023) - LibHunt. https://www.libhunt.com/r/nanoGPT.
 (2) Accelerating Large Language Models with Accelerated Transformers. https://pytorch.org/blog/accelerating-large-language-models/.
 (3) GitHub - karpathy/nanoGPT: The simplest, fastest repository for .... https://github.com/karpathy/nanoGPT.
+
+### Q: Which is larger? MinGPT or NanoGPT?
+
+According to the web search results, MinGPT and NanoGPT are both GPT models that are designed to be smaller and more efficient than previous GPT models. However, NanoGPT is smaller than MinGPT, as it has only 96 million parameters, while MinGPT has about 124 million parameters¹². NanoGPT is also open-source and accessible to anyone, while MinGPT is not²³. Therefore, NanoGPT is more suitable for use cases where computational resources are limited or where open-source is preferred, while MinGPT may perform better on some NLP tasks due to its larger size. I hope this answers your question. 😊
+
+Source: Conversation with Bing, 2023/6/8
+(1) MinGPT vs NanoGPT: Understanding the Differences - teccgadgets. https://www.teccgadgets.com/mingpt-vs-nanogpt-understanding/.
+(2) GitHub - karpathy/nanoGPT: The simplest, fastest repository for .... https://github.com/karpathy/nanoGPT.
+(3) GitHub - karpathy/minGPT: A minimal PyTorch re-implementation of the .... https://github.com/karpathy/minGPT.
